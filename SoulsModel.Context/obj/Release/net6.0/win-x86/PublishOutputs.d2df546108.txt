@@ -1,0 +1,2 @@
+C:\Users\raine\Documents\PSO2-Aqua-Library\SoulsModel.Context\bin\Release\net6.0\win-x86\publish\SoulsModel.Context.pdb
+C:\Users\raine\Documents\PSO2-Aqua-Library\SoulsModel.Context\bin\Release\net6.0\win-x86\publish\SoulsModel.Context.exe

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaLPYh+h28+p6qxlFFWjxpiYlhqfTUm7bjfXWw59Abe9R1fnz+CGAaTttHL1T2Fi/sag11GSxHOQBbr6u8EawA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raine\\Documents\\PSO2-Aqua-Library\\SoulsModel.Context\\SoulsModel.Context.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raine\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.19\\microsoft.netcore.app.runtime.win-x86.6.0.19.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.19\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.19.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.19\\microsoft.aspnetcore.app.runtime.win-x86.6.0.19.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.19\\microsoft.netcore.app.host.win-x86.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
